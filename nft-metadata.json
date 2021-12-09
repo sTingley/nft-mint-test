@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "cat"
+    },
+    {
+      "trait_type": "gloves",
+      "value": "black"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Pink"
+    }
+  ],
+  "description": "The world's most adorable and sensitive pup.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWUKrMCp3U8VM9SG5xJd12Zq5n8j4HGYS96sUvCr5Gfxs",
+  "name": "Ramses"
+}
